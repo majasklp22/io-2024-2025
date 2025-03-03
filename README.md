@@ -1,0 +1,1 @@
+Ulubiony kolor: gołębi
