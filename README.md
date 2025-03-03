@@ -1,3 +1,3 @@
 Ulubiony kolor: gołębi
 
-Ulubione zwierzę: gołab
+Ulubione zwierzę: gołąb
