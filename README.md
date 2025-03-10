@@ -1,4 +1,4 @@
-Ulubiony kolor: gołębi
+Ulubiony kolor: niebieski
 
 Ulubione zwierzę: kot
 
