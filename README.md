@@ -8,21 +8,19 @@ Ulubiona bajka: Pora na przygodę
 
 ## Zadanie 1 
 
-Twoim zadaniem jest....
+Twoim zadaniem jest obliczenie wieku głównej postaci Pory na przygodę - Finn
 
-Dane wejściowe: piętro startowe, piętro końcowe
-
-Przykład: `15, 166`
+Dane wejściowe: rok_urodzenia, rok_teraz
+Przykład: `2000, 2025`
 
 Dane wyjściowe: ciąg znaków (string)
 
-Przykład: `151 w dół`
+Przykład: `Finn ma ... lat`
 
-Funkcja nazywać się ma: `oblicz piętra`
+Funkcja nazywać się ma: `wiek_finn`
 
 Kod do uzupełnienia: 
 ```python
-def oblicz_piętra: (piętro_startowe, piętro_koncowe);
+def wiek_finn: (rok_urodzenia, rok_teraz);
     pass
 ```
-## gdzie ten kod zapisac - w main.py, dokladne zasady jesli to nie jest oczywiste 
